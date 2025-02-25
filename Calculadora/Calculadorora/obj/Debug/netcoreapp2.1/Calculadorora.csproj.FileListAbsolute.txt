@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\obj\Debug\netcoreapp2.1\Calculadorora.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\obj\Debug\netcoreapp2.1\Calculadorora.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\obj\Debug\netcoreapp2.1\Calculadorora.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\obj\Debug\netcoreapp2.1\Calculadorora.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\bin\Debug\netcoreapp2.1\Calculadorora.deps.json
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\bin\Debug\netcoreapp2.1\Calculadorora.runtimeconfig.json
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\bin\Debug\netcoreapp2.1\Calculadorora.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\bin\Debug\netcoreapp2.1\Calculadorora.dll
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\bin\Debug\netcoreapp2.1\Calculadorora.pdb
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\obj\Debug\netcoreapp2.1\Calculadorora.dll
+C:\Users\Aluno\source\repos\Calculadorora\Calculadorora\obj\Debug\netcoreapp2.1\Calculadorora.pdb
