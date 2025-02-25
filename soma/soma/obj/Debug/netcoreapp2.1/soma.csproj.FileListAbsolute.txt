@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\soma\soma\bin\Debug\netcoreapp2.1\soma.deps.json
+C:\Users\Aluno\source\repos\soma\soma\bin\Debug\netcoreapp2.1\soma.runtimeconfig.json
+C:\Users\Aluno\source\repos\soma\soma\bin\Debug\netcoreapp2.1\soma.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\soma\soma\bin\Debug\netcoreapp2.1\soma.dll
+C:\Users\Aluno\source\repos\soma\soma\bin\Debug\netcoreapp2.1\soma.pdb
+C:\Users\Aluno\source\repos\soma\soma\obj\Debug\netcoreapp2.1\soma.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\soma\soma\obj\Debug\netcoreapp2.1\soma.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\soma\soma\obj\Debug\netcoreapp2.1\soma.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\soma\soma\obj\Debug\netcoreapp2.1\soma.dll
+C:\Users\Aluno\source\repos\soma\soma\obj\Debug\netcoreapp2.1\soma.pdb
